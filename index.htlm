@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EmaDreams - Support & Privacy</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        h1 { color: #667eea; margin-bottom: 10px; font-size: 2.5em; }
+        h2 { color: #764ba2; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        h3 { color: #555; margin-top: 20px; margin-bottom: 10px; }
+        p { margin-bottom: 15px; text-align: justify; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 8px; }
+        .contact { background: #f8f9fa; padding: 20px; border-radius: 8px; margin-top: 30px; }
+        .contact a { color: #667eea; text-decoration: none; font-weight: bold; }
+        .contact a:hover { text-decoration: underline; }
+        .last-updated { color: #888; font-size: 0.9em; margin-top: 30px; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>EmaDreams</h1>
+        <p><em>Rüyalarınızı Keşfedin</em></p>
 
+        <h2>📱 Destek</h2>
+        <div class="contact">
+            <p><strong>Sorularınız veya önerileriniz için:</strong></p>
+            <p>Email: <a href="mailto:emadreamsjournal@gmail.com">emadreamsjournal@gmail.com</a></p>
+            <p>Yanıt süresi: 24-48 saat içinde geri dönüş yapıyoruz.</p>
+        </div>
+
+        <h2>🔒 Gizlilik Politikası</h2>
+        <p><strong>Son Güncellenme:</strong> 5 Ekim 2025</p>
+
+        <h3>1. Genel Bakış</h3>
+        <p>EmaDreams ("Uygulama"), kullanıcıların rüyalarını kaydetmelerine ve analiz etmelerine olanak tanıyan bir mobil uygulamadır. Gizliliğiniz bizim için önemlidir. Bu politika, uygulamanın veri toplama ve kullanım uygulamalarını açıklamaktadır.</p>
+
+        <h3>2. Toplanan Veriler</h3>
+        <p>EmaDreams aşağıdaki verileri toplar ve işler:</p>
+        <ul>
+            <li><strong>Rüya Kayıtları:</strong> Kullanıcıların girdiği rüya metinleri, tarihler ve etiketler</li>
+            <li><strong>Sesli Notlar:</strong> Kullanıcının izniyle kaydedilen
